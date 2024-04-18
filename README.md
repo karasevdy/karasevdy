@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dmitry Karasev: @karasevdy
+- 👋 Hi there, I’m Dmitry Karasev: @karasevdy
 - 📫 You can reach me via:
   - email dk89@mail.ru
   - https://t.me/Dmitry_Karasev_89  
